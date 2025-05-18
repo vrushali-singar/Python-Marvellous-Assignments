@@ -1,0 +1,3 @@
+- Working with lists
+- Performing arithmetic operations on list elements
+- Using user-defined modules
