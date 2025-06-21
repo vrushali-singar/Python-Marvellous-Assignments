@@ -1,4 +1,4 @@
-# Task 4: Compare two files
+# Compare two files
 file1 = input("Enter first file name: ")
 file2 = input("Enter second file name: ")
 

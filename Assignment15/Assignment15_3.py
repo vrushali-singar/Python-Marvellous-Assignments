@@ -1,4 +1,4 @@
-# Task 3: Copy contents from one file to Demo.txt
+# Copy contents from one file to Demo.txt
 source_file = input("Enter source file name: ")
 
 try:

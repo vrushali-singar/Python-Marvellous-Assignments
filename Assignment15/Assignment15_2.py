@@ -1,4 +1,4 @@
-# Task 2: Display file contents
+#Display file contents
 filename = input("Enter file name: ")
 
 try:

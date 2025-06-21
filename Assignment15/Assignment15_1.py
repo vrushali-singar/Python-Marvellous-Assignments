@@ -1,4 +1,4 @@
-# Task 1: Check file existence
+# Check file existence
 filename = input("Enter file name: ")
 
 try:

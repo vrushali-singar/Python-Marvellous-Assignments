@@ -1,4 +1,4 @@
-# Task 5: Count frequency of a word/string in file
+# Count frequency of a word/string in file
 filename = input("Enter file name: ")
 search_word = input("Enter string to search: ")
 
